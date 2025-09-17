@@ -16,5 +16,19 @@ a:hover {
     color: red;
 }
 
+h1 {
+    color: #003366;
+    text-align: center;
+}
+
+h2 {
+    color: darkgreen;
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-style: italic;
+}
+
 
 
