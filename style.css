@@ -38,5 +38,15 @@ ul li {
     padding: 5px;
 }
 
+img {
+    border: 1px solid black;
+}
 
+main img {
+    width: 200px;
+}
+
+footer img {
+    width: 50px;
+}
 
