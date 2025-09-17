@@ -30,5 +30,13 @@ h3 {
     font-style: italic;
 }
 
+ul, ol {
+    border: 1px solid #ccc;
+}
+
+ul li {
+    padding: 5px;
+}
+
 
 
