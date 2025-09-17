@@ -1,0 +1,20 @@
+body {
+    background-color: lightgray;
+}
+
+p {
+    color: black;
+    line-height: 1.5;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+
+
